@@ -1,0 +1,1 @@
+sudo docker run -v /workspace/database/stonksense/postgres/:/var/lib/postgresql/data --name stonksense-postgres -p 5432:5432 -d stonksense-postgres:0.1
