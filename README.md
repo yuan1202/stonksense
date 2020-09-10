@@ -1,4 +1,4 @@
-![stonksense](https://gph.is/g/aeYGk8N)
+![stonksense](https://media.giphy.com/media/YnkMcHgNIMW4Yfmjxr/giphy.gif)
 # Stonksense
 
 Project code repo
